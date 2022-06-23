@@ -1,5 +1,5 @@
 # Site Settings
-baseurl: "/Grape-Academic-Theme"
+baseurl: "https://d0bbyg.github.io"
 
 # Blog Setting
 blog: True
@@ -13,7 +13,7 @@ tagline: A jekyll theme for academic portfolios
 description: The demonstration page for the Grape Academic Theme, a jekyll theme for academic portfolios based on the Grape Theme.
 author: Christoph Jabs (chrjabs)
 twitter:
-  username: chrjabs
+  username: d0bbyg
   card: A jekyll theme for academic portfolios
 logo: /assets/img/smile.png
 social:
